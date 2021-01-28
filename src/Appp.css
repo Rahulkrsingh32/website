@@ -1,0 +1,22 @@
+.about {
+    text-align: center;
+    
+}
+ 
+.list {
+    align-items: center;
+}
+.information {
+    background-color: rgb(4, 231, 61);
+}
+.paragraph{
+    font-size:large;
+    color: rgb(167, 34, 34);
+}
+.mainheader{
+    font-size: 2cm;
+}
+.big{
+    text-align: center;
+    font-size: 3cm;
+}
